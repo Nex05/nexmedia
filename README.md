@@ -1,30 +1,30 @@
 # Nex Media Portfolio
 
-Welcome to Nex Media, a portfolio showcasing my multimedia work including motion graphics, graphic design, web design, video editing, and 3D projects.
+Welcome to Nex Media, a Portfolio showcasing my multimedia work including motion graphics, graphic design, web design, video editing, and 3D projects.
 
 ## About
 
-Nex Media serves as a platform to showcase my creative projects and highlight my skills in various multimedia disciplines. Through this portfolio, I aim to demonstrate my expertise, creativity, and passion for multimedia production.
+Nex Media serves as a platform to showcase my creative projects and highlight my skills in various multimedia disciplines. Through this Portfolio, I aim to demonstrate my expertise, creativity, and passion for multimedia production.
 
 ## Contributing
 
-I welcome contributions from the community to enhance the portfolio and improve its overall quality. If you encounter any issues or have suggestions for improvement, please feel free to reach out using the contact information provided below.
+I welcome contributions from the community to enhance the Portfolio and improve its overall quality. If you encounter any issues or have suggestions for improvement, please feel free to reach out using the contact information provided below.
 
 ### Reporting Issues
 
-If you come across any issues while browsing the portfolio or notice any technical glitches, please report them to help me improve the user experience. You can submit an issue through the following channels:
+If you come across any issues while browsing the Portfolio or notice any technical glitches, please report them to help me improve the user experience. You can submit an issue through the following channels:
 
 - Email: nex.media05@gmail.com
 
 ### Submitting Suggestions
 
-I value your suggestions and ideas for enhancing the portfolio. If you have any recommendations or feedback on how to make the website better, please share them with me. You can submit your suggestions through the following channels:
+I value your suggestions and ideas for enhancing the Portfolio. If you have any recommendations or feedback on how to make the website better, please share them with me. You can submit your suggestions through the following channels:
 
 - Email: nex.media05@gmail.com
 
 ## License
 
-This portfolio website is built upon a Bootstrap template, and I have extensively modified the code to suit my specific needs. All modifications and customizations are the result of my own work. The original Bootstrap template retains its original license.
+This Portfolio website is built upon a Bootstrap template, and I have extensively modified the code to suit my specific needs. All modifications and customizations are the result of my own work. The original Bootstrap template retains its original license.
 
 ## Contact
 
