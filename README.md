@@ -14,13 +14,13 @@ I welcome contributions from the community to enhance the Portfolio and improve 
 
 If you come across any issues while browsing the Portfolio or notice any technical glitches, please report them to help me improve the user experience. You can submit an issue through the following channels:
 
-- Email: nex.media05@gmail.com
+- Email: the.nexmedia@gmail.com
 
 ### Submitting Suggestions
 
 I value your suggestions and ideas for enhancing the Portfolio. If you have any recommendations or feedback on how to make the website better, please share them with me. You can submit your suggestions through the following channels:
 
-- Email: nex.media05@gmail.com
+- Email: the.nexmedia@gmail.com
 
 ## License
 
@@ -28,7 +28,7 @@ This Portfolio website is built upon a Bootstrap template, and I have extensivel
 
 ## Contact
 
-For any inquiries, collaboration opportunities, or general communication, please feel free to reach out to me via email at nex.media05@gmail.com. I'm excited to connect and discuss potential projects or answer any questions you may have.
+For any inquiries, collaboration opportunities, or general communication, please feel free to reach out to me via email at the.nexmedia@gmail.com. I'm excited to connect and discuss potential projects or answer any questions you may have.
 
 Thank you for visiting Nex Media!
 
